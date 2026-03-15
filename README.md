@@ -1,2 +1,5 @@
 # firstclasstutor
-online tutor csec subjects caribbean
+# online tutor CSEC subjects Caribbean
+# Define buyer personas for each user
+# integrate AI/ML libraries  
+
